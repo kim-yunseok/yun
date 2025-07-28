@@ -21,5 +21,5 @@
 - [기타 자격증]
 
 ## 📞 Contact
-- GitHub: [github.com/yourname](https://github.com/yourname)
-- Email: your@email.com
+- GitHub: [github.com/kim-yunseok](https://github.com/kim-yunseok)
+- Email: yunsuk1010@naver.com
